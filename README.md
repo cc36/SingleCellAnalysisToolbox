@@ -4,11 +4,21 @@ This repository contains data and notebooks for the single-cell session in the [
 
 ## Objectives 
 
-The goal of these two sessions will be to introduce basic concepts for analysis of single-cell RNA and paired TCR sequencing data.
+The goal of these two sessions will be to introduce basic concepts for exploratory analysis of single-cell RNA and paired TCR sequencing data.
 
 ## Data
 
 We will use a dataset from the HCA [Tissue Immune Cell Atlas](https://www.science.org/doi/10.1126/science.abl5197) containing human T cells across a range of lymphoid and non-lymphoid tissues. This will allow us to cover a broad spectrum of T cell types.
+
+* **scRNA-seq data**
+
+* **scVDJ-seq data**
+
+## notebooks
+
+```T-cell-bioinformatics-course_GEX.ipynb``` - workflow to perform QC, integration and annotation of single-cell gene expression (GEX)
+
+```T-cell-bioinformatics-course_scTCRseq.ipynb``` - workflow to integrate VDJ and GEX data, determine clonotypes and repertoire sharing
 
 ## Python_intro
 
@@ -24,6 +34,7 @@ seaborn
 
 ### Python object creation
 
+```dict = dict(zip(keys, values))```
 ```df = pd.DataFrame()```
 ```list = []```
 ```AnnData``` https://anndata.readthedocs.io/en/latest/
