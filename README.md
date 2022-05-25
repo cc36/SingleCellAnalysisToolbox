@@ -2,9 +2,13 @@
 
 This repository contains data and notebooks for the single-cell session in the [2022 EMBL-EBI T-cell bioinformatics course](https://www.ebi.ac.uk/training/events/bioinformatics-t-cell-immunology-2022/)
 
-## Python_intro
+## Objectives 
 
+The goal of these two sessions will be to introduce basic concepts for analysis of single-cell RNA and paired TCR sequencing data.
 
+## Data
+
+We will use a dataset from the HCA [Tissue Immune Cell Atlas](https://www.science.org/doi/10.1126/science.abl5197) containing human T cells across a range of lymphoid and non-lymphoid tissues. This will allow us to cover a broad spectrum of T cell types.
 
 ## Python_intro
 
