@@ -1,26 +1,21 @@
 # Single Cell Analysis Toolbox
 
+## Python_intro
 
 ### Python packages
 
 ```pip3 install```
 
-pandas
-
+pandas 
 numpy
-
 scipy
-
 matplotlib
-
 seaborn
 
 ### Python object creation
 
 ```df = pd.DataFrame()```
-
 ```list = []```
-
 ```AnnData``` https://anndata.readthedocs.io/en/latest/
 
 ### Reading in and writing out the data
