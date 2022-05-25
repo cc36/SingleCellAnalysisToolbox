@@ -1,5 +1,11 @@
 # Single Cell Analysis Toolbox
 
+This repository contains data and notebooks for the [T-cell bioinformatics course](https://www.ebi.ac.uk/training/events/bioinformatics-t-cell-immunology-2022/)
+
+## Python_intro
+
+
+
 ## Python_intro
 
 ### Python packages
