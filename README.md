@@ -35,8 +35,11 @@ seaborn
 ### Python object creation
 
 ```dict = dict(zip(keys, values))```
+
 ```df = pd.DataFrame()```
+
 ```list = []```
+
 ```AnnData``` https://anndata.readthedocs.io/en/latest/
 
 ### Reading in and writing out the data
