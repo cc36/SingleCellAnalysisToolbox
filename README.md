@@ -16,7 +16,7 @@ We will use a dataset from the HCA [Tissue Immune Cell Atlas](https://www.scienc
 
 ## notebooks
 
-```T-cell-bioinformatics-course_GEX.ipynb``` - workflow to perform QC, integration and annotation of single-cell gene expression (GEX)
+```T-cell-bioinformatics-course_scRNAseq.ipynb``` - workflow to perform QC, integration and annotation of single-cell gene expression (GEX)
 
 ```T-cell-bioinformatics-course_scTCRseq.ipynb``` - workflow to integrate VDJ and GEX data, determine clonotypes and repertoire sharing
 
