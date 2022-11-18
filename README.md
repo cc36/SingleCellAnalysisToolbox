@@ -10,7 +10,7 @@ The goal of these two sessions will be to introduce basic concepts for explorato
 
 We will use a dataset from the HCA [Tissue Immune Cell Atlas](https://www.science.org/doi/10.1126/science.abl5197) containing human T cells across a range of lymphoid and non-lymphoid tissues. This will allow us to cover a broad spectrum of T cell types.
 
-* **scRNA-seq data**
+* **scRNA-seq data** available in the data folder of this repo and at [Tissue Immune Cell Atlas](https://www.science.org/doi/10.1126/science.abl5197)
 
 * **scVDJ-seq data** request access to TCR contigs in [GDrive](https://drive.google.com/drive/folders/1wgd8WAsr_SAdM8eaeumm42V6CHLJ8XVk?usp=share_link)
 
