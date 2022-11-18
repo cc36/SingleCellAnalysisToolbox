@@ -12,7 +12,7 @@ We will use a dataset from the HCA [Tissue Immune Cell Atlas](https://www.scienc
 
 * **scRNA-seq data**
 
-* **scVDJ-seq data**
+* **scVDJ-seq data** request access to TCR contigs in https://drive.google.com/drive/folders/1wgd8WAsr_SAdM8eaeumm42V6CHLJ8XVk?usp=share_link
 
 ## notebooks
 
